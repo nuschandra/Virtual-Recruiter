@@ -1,0 +1,155 @@
+{
+    "Introductions": [
+        {
+            "data":[
+                {
+                    "text":"I am from the "
+                },
+                {
+                    "text":"VPDP",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am from "
+                },
+                {
+                    "text":"VPDP",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am a member of the "
+                },
+                {
+                    "text":"Visa Payments Digitization Platform",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I represent the "
+                },
+                {
+                    "text":"Loyalty",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am from the "
+                },
+                {
+                    "text":"Data Science",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am a manager of the "
+                },
+                {
+                    "text":"Machine Learning",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am from the "
+                },
+                {
+                    "text":"HR",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am from the "
+                },
+                {
+                    "text":"Legal",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" team"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am from the "
+                },
+                {
+                    "text":"Payments",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" department"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"I am the head of the "
+                },
+                {
+                    "text":"Visa Net",
+                    "entity":"team_name"
+                },
+                {
+                    "text":" department"
+                }
+            ]
+        },
+        {
+            "data":[
+                {
+                    "text":"My team is "
+                },
+                {
+                    "text":"Visa Net",
+                    "entity":"team_name"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "intents": [{
+        "tag": "greetings",
+        "patterns": ["Hi", "Hey", "Good morning", "Is anyone there?", "Hello", "Good afternoon", "Good evening", "Yo!", "Sup", "What's up?", "Heyyy", "Hiii"],
+        "responses": ["Hi there, I am the Virtual-Recruiter. How can I help?"]
+    },{
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": ["See you later!", "Have a nice day!", "Bye! Come back again soon."]
+    },{
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Perfect", "Appreciate your support", "Appreciate your help", "Thanks for your support", "Thanks for the support", "Thank you for the help"],
+        "responses": ["Happy to help!", "Any time!", "My pleasure."]
+    },{
+        "tag": "introductions",
+        "patterns":[],
+        "responses":["Okay thank you. How can I help you?"]
+    },{
+        "tag":"hiring_request",
+        "patterns":["I would like to hire a candidate.", "I would like to hire", "I want to hire a candidate", "I want to hire", "Hiring needed", "Can you help me with the hiring process?",
+                    "How can I hire a candidate?", "What is the procedure for hiring a candidate", "Candidate hiring", "Need to hire"],
+        "responses":["Sure, could you kindly upload the job description document by clicking on the upload file option in the chat?"]
+    }]
+}
