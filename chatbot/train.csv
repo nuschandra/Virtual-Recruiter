@@ -1,0 +1,466 @@
+text,intent
+hi,greetings
+hey,greetings
+good morning,greetings
+is anyone there?,greetings
+hello,greetings
+good afternoon,greetings
+good evening,greetings
+yo!,greetings
+sup,greetings
+what's up?,greetings
+heyyy,greetings
+hiii,greetings
+morning,greetings
+evening,greetings
+afternoon,greetings
+howdy,greetings
+hi! how are you doing?,greetings
+hey hope you're doing good.,greetings
+hi. glad to talk to you,greetings
+top of the morning to you,greetings
+hi long time no see,greetings
+long time no see,greetings
+hey how have you been doing,greetings
+how ya doin,greetings
+it's good talking to you,greetings
+how're you,greetings
+how are you,greetings
+how are things,greetings
+trust everything is going good,greetings
+what's news,greetings
+what is up with you,greetings
+howdy,greetings
+hola,greetings
+how've you been,greetings
+hey hi,greetings
+helloz,greetings
+hi what's up,greetings
+hi! is this a good time to talk?,greetings
+hi. can we talk now?,greetings
+can talk now?,greetings
+hi are you free now?,greetings
+hi i would like to talk to you,greetings
+i need to discuss something with you,greetings
+hey! i need some help,greetings
+hi. i need some help from you,greetings
+hi can i ask for some help?,greetings
+hey would you be free to help me?,greetings
+hi. you got a minute?,greetings
+hello! can i ask you for a favor,greetings
+can help me please?,greetings
+i need to ask you something,greetings
+heyyy how have you been,greetings
+hi. hope all is well with you,greetings
+hope all is well,greetings
+what is up?,greetings
+what's news,greetings
+sup what's cooking,greetings
+yo! what's happening,greetings
+can i talk to you,greetings
+got a moment?,greetings
+you free to talk?,greetings
+you got some time now?,greetings
+you busy?,greetings
+you free?,greetings
+hey i need to talk to you,greetings
+hello i've been waiting to talk to you,greetings
+hi! do you have a moment?,greetings
+long time,greetings
+got time to talk?,greetings
+are you free to talk?,greetings
+are you free now?,greetings
+you there?,greetings
+there?,greetings
+der?,greetings
+who are you?,greetings
+may i know your name?,greetings
+may i know who you are,greetings
+what is your name?,greetings
+can you give me an introduction about yourself,greetings
+introduce yourself,greetings
+your name?,greetings
+hi. tell me more about yourself,greetings
+tell me about yourself,greetings
+hey got a minute?,greetings
+hey i have a question,greetings
+are you online now?,greetings
+hey you available to talk?,greetings
+are you available now?,greetings
+are you available for a chat now?,greetings
+can we chat?,greetings
+"hi, i would like to chat with you about something.",greetings
+online?,greetings
+"hi, i am john simmons",greetings
+hey i am john from the big data team,greetings
+hi my name is albert roger. are you free to talk?,greetings
+"hi, i am the manager of the development team",greetings
+hello. i am lawrence and am from the development team,greetings
+hi! i am samuel and am the manager of the payments team,greetings
+hey this is jonathan and i would like to discuss something with you,greetings
+hi i represent the quality assurance team and need some help,greetings
+hi my name is william. you there?,greetings
+my name is brandon. there?,greetings
+i am brady. are you online?,greetings
+this is jennifer from the security team. can we talk?,greetings
+i am jack and i am from the network team. are you available for a quick conversation?,greetings
+yo! i am from the hr team and need some help,greetings
+this is albert from the development team,greetings
+this is monica,greetings
+i am joseph,greetings
+"hello, this is joel",greetings
+hi i am malcolm,greetings
+hello i am ashley,greetings
+hello i am ash from the coding team,greetings
+"yo, i am victor from the legal department",greetings
+i would like to hire a candidate.,hiring_request
+i would like to hire,hiring_request
+i want to hire a candidate,hiring_request
+i want to hire,hiring_request
+hiring needed,hiring_request
+can you help me with the hiring process?,hiring_request
+how can i hire a candidate?,hiring_request
+i am looking for a candidate.,hiring_request
+i am looking for a software engineer.,hiring_request
+i want to hire a manager.,hiring_request
+help with hiring process required.,hiring_request
+how do i get a candidate?,hiring_request
+urgently need some candidates for hiring.,hiring_request
+i might need to hire some interns.,hiring_request
+i might need some help with recruitment.,hiring_request
+how to recruit some candidates,hiring_request
+recruitment help needed,hiring_request
+recruitment needed,hiring_request
+recruit for my team,hiring_request
+my team needs more head count,hiring_request
+i would like to interview some candidates for my team,hiring_request
+i would like to interview for a opening in my team,hiring_request
+my team has a few openings now,hiring_request
+open positions available.,hiring_request
+openings available,hiring_request
+openings are there in my team,hiring_request
+i have a few open positions in my team that i would like to fill.,hiring_request
+i would like to fill a few open positions in my team asap.,hiring_request
+can i have some interview scheduled with candidates for my team?,hiring_request
+can i know how to start off with the hiring process?,hiring_request
+it seems like our team has more head count now.,hiring_request
+i need some good candidates for the open positions.,hiring_request
+can i give you the job description for my team open positions?,hiring_request
+should i upload the job description?,hiring_request
+i have the job descriptions for a few open positions.,hiring_request
+can i have a few resumes for interviewing?,hiring_request
+could you give some resumes for hiring in my team?,hiring_request
+my team is looking to expand now.,hiring_request
+we are planning to expand our team this year.,hiring_request
+resumes needed for my team.,hiring_request
+resumes needed.,hiring_request
+would you be able to provide a few resumes?,hiring_request
+would you be able to suggest candidates for hiring?,hiring_request
+any candidates available?,hiring_request
+is there a process for hiring candidates?,hiring_request
+is there a clear hiring process for me to follow?,hiring_request
+my manager wants us to hire some people for our team.,hiring_request
+we want to hire some engineers for our team.,hiring_request
+we would like to know what the hiring process is.,hiring_request
+what is the hiring process like?,hiring_request
+would you be able to assist with the hiring process?,hiring_request
+help needed with hiring.,hiring_request
+can you help me with hiring?,hiring_request
+can you help me with finding candidates?,hiring_request
+find candidates for our team.,hiring_request
+could you find suitable candidates for our team?,hiring_request
+could you suggest candidates for our team?,hiring_request
+could you help to suggest some resumes for our team?,hiring_request
+could you provide some resumes for our team that we could consider?,hiring_request
+could you help me with the hiring process?,hiring_request
+candidate hiring process please.,hiring_request
+what should i do to start the hiring process?,hiring_request
+what are the steps for hiring candidates?,hiring_request
+can i upload job descriptions?,hiring_request
+how do i upload job descriptions?,hiring_request
+i have job requirements for my team.,hiring_request
+i have job requirements for open positions in my team.,hiring_request
+where am i supposed to upload job descriptions?,hiring_request
+how do i begin the hiring process?,hiring_request
+hiring,hiring_request
+hiring now for my team,hiring_request
+my team is hiring,hiring_request
+my team is hiring soon,hiring_request
+is there a procedure for hiring candidates?,hiring_request
+could you look out for candidates for my team?,hiring_request
+could you find candidates suitable to the job descriptions that i will provide?,hiring_request
+i can provide job descriptions for my team,hiring_request
+i have job requirements for openings in my team,hiring_request
+how to get started with hiring?,hiring_request
+where do i upload job descriptions?,hiring_request
+where do i upload job requirements for my team?,hiring_request
+we are looking for suitable candidates.,hiring_request
+is it possible to help me with hiring processes?,hiring_request
+possible to help with hiring?,hiring_request
+hiring process,hiring_request
+job requirements available.,hiring_request
+job descriptions ready.,hiring_request
+upload job descriptions,hiring_request
+need some candidates.,hiring_request
+need some help with hiring.,hiring_request
+need hiring process help.,hiring_request
+need you to guide me with the hiring process.,hiring_request
+can you guide me with the hiring steps?,hiring_request
+guide me with the hiring process please.,hiring_request
+could you guide me with getting candidates for open positions in my team?,hiring_request
+how do i get candidates for positions in our team?,hiring_request
+positions in my team available.,hiring_request
+openings available in my team.,hiring_request
+looking for candidates to join our team.,hiring_request
+looking to fill open positions in the team.,hiring_request
+looking for talented candidates to join our team.,hiring_request
+could you kindly help with finding some candidates to join the team?,hiring_request
+kindly help me with hiring few candidates.,hiring_request
+would you be kind enough to help me hire a few candidates?,hiring_request
+would it be possible to get a few candidates to join our team?,hiring_request
+would it be possible to tell me where i can upload job descriptions?,hiring_request
+what is the first step to begin the hiring process?,hiring_request
+i'd like to begin hiring.,hiring_request
+i'd like to know what needs to be done to start the hiring process.,hiring_request
+could you help kickstart the hiring for candidates?,hiring_request
+our headcount has expanded and i want to hire few candidates.,hiring_request
+need help to hire candidates.,hiring_request
+i am thinking of hiring candidates for my team.,hiring_request
+what should i do start hiring?,hiring_request
+want to start hiring.,hiring_request
+want candidates.,hiring_request
+candidates required.,hiring_request
+looking for good quality candidates.,hiring_request
+candidates wanted soon,hiring_request
+bye,goodbye
+see you later,goodbye
+goodbye,goodbye
+see you,goodbye
+talk to you later,goodbye
+ok see ya later,goodbye
+ok catch ya later,goodbye
+alright bye,goodbye
+take care,goodbye
+fine ok bye,goodbye
+k bye,goodbye
+byeeee,goodbye
+alright take care bye!,goodbye
+bye bye,goodbye
+ok good night,goodbye
+good night,goodbye
+gn bye,goodbye
+gn take care,goodbye
+have a great day,goodbye
+g'day,goodbye
+good day,goodbye
+ok have a nice day,goodbye
+alright have a good day ahead,goodbye
+have a good day!,goodbye
+have a nice day ahead,goodbye
+see ya,goodbye
+sure bye,goodbye
+take care,goodbye
+stay safe,goodbye
+tc,goodbye
+till next time then,goodbye
+till next time,goodbye
+sure bye bye,goodbye
+yeah bye,goodbye
+nice talking to you,goodbye
+pleasure talking to you,goodbye
+was good to talk to you,goodbye
+happy talking to you,goodbye
+happy to talk to you,goodbye
+nice to talk to you,goodbye
+talking to you was nice,goodbye
+it was a pleasure talking to you,goodbye
+ok fine bye,goodbye
+ok fine bye bye,goodbye
+ok goodbye,goodbye
+ok have a great day,goodbye
+alright have a great day ahead,goodbye
+have a fantastic day ahead,goodbye
+have a pleasant day!,goodbye
+enjoy a good day ahead,goodbye
+night,goodbye
+see u,goodbye
+ok night!,goodbye
+alright good night take care,goodbye
+take care good night,goodbye
+take care have a good day ahead,goodbye
+take care have a nice day,goodbye
+see you next time,goodbye
+ok ttyl,goodbye
+ttyl,goodbye
+alright catch you another time,goodbye
+alright catch you later,goodbye
+alright ttyl,goodbye
+alright later then,goodbye
+ok later then,goodbye
+ok bi,goodbye
+alright bi,goodbye
+fine talk to you another time,goodbye
+fine talk to you later,goodbye
+fine bye,goodbye
+fine see you,goodbye
+alright fine bye,goodbye
+alright fine talk to you another time,goodbye
+alright fine take care,goodbye
+fine good night,goodbye
+alright fine good night,goodbye
+please schedule the interview on monday,interview_schedule
+schedule meeting today,interview_schedule
+friday appointment to be booked at 11am.,interview_schedule
+i can conduct the interview on tuesday for a few candidates from 4pm to 6pm.,interview_schedule
+confirm wednesday 1pm for next round of interview.,interview_schedule
+conduct interview at 4pm on tuesday.,interview_schedule
+create an event for tomorrow at 5pm.,interview_schedule
+create an event at 5pm for tomorrow.,interview_schedule
+fix an appointment from 6pm to 7pm on monday,interview_schedule
+block my calendar on friday from 7pm to 8pm,interview_schedule
+schedule an interview next thursday at 2pm,interview_schedule
+schedule a meeting for next monday from 5pm,interview_schedule
+book a meeting for wednesday at 2pm,interview_schedule
+setup an interview call at 5pm on tuesday.,interview_schedule
+send an virtual interview invite for next friday at 3pm.,interview_schedule
+send a meeting invite for interview on thursday at 10 am.,interview_schedule
+meeting on friday at 11am,interview_schedule
+virtual interview on tuesday at 3pm.,interview_schedule
+add this to today's interview schedule.,interview_schedule
+add this to wednesday's schedule.,interview_schedule
+tuesday interview for candidate two.,interview_schedule
+conduct interview on tuesday,interview_schedule
+make an appointment for next week,interview_schedule
+create an event for tomorrow,interview_schedule
+fix an appointment on monday,interview_schedule
+block my calendar on friday,interview_schedule
+schedule an interview next thursday,interview_schedule
+schedule a meeting for next week,interview_schedule
+book a meeting for wednesday,interview_schedule
+setup an interview call on tuesday,interview_schedule
+send an interview invite for next friday,interview_schedule
+send a meeting invite for thursday.,interview_schedule
+meeting on friday,interview_schedule
+interview on tuesday.,interview_schedule
+set up a call today,interview_schedule
+set a meeting reminder tomorrow,interview_schedule
+book an appointment today,interview_schedule
+zoom meeting on friday,interview_schedule
+friday appointment to be booked,interview_schedule
+confirm interview schedule for next saturday,interview_schedule
+send interview invitation for coming monday,interview_schedule
+second round screening on coming tuesday,interview_schedule
+schedule a phone call this friday,interview_schedule
+schedule a face to face meeting on friday,interview_schedule
+confirm interview time for candidate on wednesday,interview_schedule
+monday will be the face-to-face interview for candidate one,interview_schedule
+let us confirm interview time for candidate on thursday,interview_schedule
+please confirm for this wednesday,interview_schedule
+please send out a meeting invite for the condidate on wednesday for an interview.,interview_schedule
+schedule a meeting invite for the condidate on wednesday for an interview.,interview_schedule
+wednesdaywill be the appointment for the first candidate ,interview_schedule
+"following wednesday, an interview will be scheduled for next round of screening.",interview_schedule
+"day-after tomorrow, we will conduct and interview for first candidate.",interview_schedule
+schedule interview slot for candidate for friday.,interview_schedule
+need to schedule a meeting on wednesday.,interview_schedule
+we need to schedule a meeting for on thursday for that candidate.,interview_schedule
+i'm free on monday for the interview.,interview_schedule
+i can conduct the interview on tuesday for a few candidates.,interview_schedule
+confirm wednesday for next round of interview.,interview_schedule
+please confirm interview on thursday.,interview_schedule
+add it to my thursday's schedule.,interview_schedule
+i'm available on wednesday for the interview.,interview_schedule
+i'm could take the interview on wednesday.,interview_schedule
+interview schedule on wednesday.,interview_schedule
+create interview slot on wednesday for candidate.,interview_schedule
+thursday slot for interview.,interview_schedule
+book an appointment on wednesday for the interview.,interview_schedule
+confirm wednesday for next round.,interview_schedule
+interview on wednesday as part of next round screening.,interview_schedule
+block monday for interviews.,interview_schedule
+add this to my tuesday's schedule.,interview_schedule
+confirm tomorrow's interview time.,interview_schedule
+please add this to friday's schedule.,interview_schedule
+put this to thursday's schedule.,interview_schedule
+setup an appointment for tuesday for the interview.,interview_schedule
+set up interview for candidate on tuesday.,interview_schedule
+add this to monday's calendar schedule.,interview_schedule
+put this to friday's schedule.,interview_schedule
+put it on my tuesday's schedule.,interview_schedule
+confirm interview and add it to the wednesday's schedule.,interview_schedule
+please schedule interview for tomorrow at 5pm.,interview_schedule
+book a meeting appointment for today @ 11 am.,interview_schedule
+schedule a meeting day-after at 3pm.,interview_schedule
+interview from 6pm to 7pm on friday.,interview_schedule
+meeting on friday at 12am.,interview_schedule
+interview on tuesday.,interview_schedule
+set up a call today at 2pm.,interview_schedule
+set a meeting reminder tomorrow at 2pm.,interview_schedule
+book an appointment today at 3pm.,interview_schedule
+virtual meeting on friday at 12pm.,interview_schedule
+list of interviews,schedule_list
+list of interviews scheduled,schedule_list
+list of interviews scheduled for today,schedule_list
+list of interviews scheduled for tomorrow,schedule_list
+list of interviews scheduled for monday,schedule_list
+list of interviews scheduled for tuesday,schedule_list
+list of interviews scheduled for wednesday,schedule_list
+list of interviews scheduled for thursday,schedule_list
+list of interviews scheduled for friday,schedule_list
+list of interviews scheduled for this week,schedule_list
+list of interviews scheduled for this month,schedule_list
+list of interviews scheduled on 14/2/2021,schedule_list
+interview list,schedule_list
+interview list for today,schedule_list
+interview list for tomorrow,schedule_list
+interview list for monday,schedule_list
+interview list for tuesday,schedule_list
+interview list for wednesday,schedule_list
+interview list for thursday,schedule_list
+interview list for friday,schedule_list
+interview list for this week,schedule_list
+interview list for this month,schedule_list
+interview list on 11/3/2021,schedule_list
+show me the scheduled interviews,schedule_list
+show me the scheduled interviews for today,schedule_list
+show me the scheduled interviews for tomorrow,schedule_list
+show me the scheduled interviews on monday,schedule_list
+show me the scheduled interviews on tuesday,schedule_list
+show me the scheduled interviews on wednesday,schedule_list
+show me the scheduled interviews on thursday,schedule_list
+show me the scheduled interviews on friday,schedule_list
+show me the scheduled interviews on 15/2/2021,schedule_list
+show me the scheduled interviews for this week,schedule_list
+show me the scheduled interviews for this month,schedule_list
+show all the candidates scheduled for interview,schedule_list
+show all the candidates scheduled for interview today,schedule_list
+show all the candidates scheduled for interview tomorrow,schedule_list
+show all the candidates scheduled for interview on monday,schedule_list
+show all the candidates scheduled for interview on tuesday,schedule_list
+show all the candidates scheduled for interview on wednesday,schedule_list
+show all the candidates scheduled for interview on thursday,schedule_list
+show all the candidates scheduled for interview on friday,schedule_list
+show all the candidates scheduled for interview this week,schedule_list
+show all the candidates scheduled for interview this month,schedule_list
+interview schedule,schedule_list
+interview schedule today,schedule_list
+interview schedule tomorrow,schedule_list
+interview schedule this monday,schedule_list
+interview schedule this tuesday,schedule_list
+interview schedule this wednesday,schedule_list
+interview schedule this thursday,schedule_list
+interview schedule this friday,schedule_list
+interview schedule this week,schedule_list
+interview schedule this month,schedule_list
+interview schedule on 26/8/2021,schedule_list
+scheduled interviews,schedule_list
+scheduled interviews today,schedule_list
+scheduled interviews tomorrow,schedule_list
+scheduled interviews on monday,schedule_list
+scheduled interviews on tuesday,schedule_list
+scheduled interviews on wednesday,schedule_list
+scheduled interviews on thursday,schedule_list
+scheduled interviews on friday,schedule_list
+scheduled interviews this week,schedule_list
+scheduled interviews this month,schedule_list
+scheduled interviews on 2/5/2021,schedule_list

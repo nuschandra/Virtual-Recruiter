@@ -1,0 +1,23 @@
+{
+    "intents": [{
+        "tag": "greetings",
+        "patterns": ["Hi I need some clarifications", "Hey good morning to you", "Hi hope you're having a good morning", "Hello wish you a good morning", "Hey hey", "Hey you online?"],
+        "responses": ["Hi there, I am the Virtual-Recruiter. How can I help?"]
+    },{
+        "tag":"hiring_request",
+        "patterns":["What is the procedure for hiring a candidate?", "Candidate hiring", "Need to hire", "How can I hire a candidate?", "How to hire a candidate?", "How to hire?"],
+        "responses":["Sure, could you kindly upload the job description document by clicking on the upload file option in the chat?"]
+    },{
+        "tag": "goodbye",
+        "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye"],
+        "responses": ["See you later!", "Have a nice day!", "Bye! Come back again soon."]
+    },{
+        "tag":"interview_schedule",
+        "patterns": ["Please add this to friday's interview list.", "Put this to thursday's schedule after 7pm.", "Setup an appointment for tuesday from 11am to 1pm for the interview.", "Set up interview for candidate on tuesday from 2pm to 3pm.", "Add this to monday's calendar schedule at 5pm."],
+        "responses":["Ok I have scheduled the interview at the given timing."]
+    },{
+        "tag":"schedule_list",
+        "patterns": ["list of interviews scheduled for tomorrow", "list of interviews scheduled for monday", "list of interviews scheduled for tuesday", "list of interviews scheduled for wednesday"],
+        "responses": ["Sure, let me fetch your interview schedule."]
+    }]
+}                                                                                                                                              

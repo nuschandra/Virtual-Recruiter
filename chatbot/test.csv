@@ -1,0 +1,26 @@
+text,intent
+hi i need some clarifications,greetings
+hey good morning to you,greetings
+hi hope you're having a good morning,greetings
+hello wish you a good morning,greetings
+hey hey,greetings
+hey you online?,greetings
+what is the procedure for hiring a candidate?,hiring_request
+candidate hiring,hiring_request
+need to hire,hiring_request
+how can i hire a candidate?,hiring_request
+how to hire a candidate?,hiring_request
+how to hire?,hiring_request
+see you soon!,goodbye
+catch you later,goodbye
+"alright, catch you later",goodbye
+ok bye,goodbye
+please add this to friday's interview list.,interview_schedule
+put this to thursday's schedule after 7pm.,interview_schedule
+setup an appointment for tuesday from 11am to 1pm for the interview.,interview_schedule
+set up interview for candidate on tuesday from 2pm to 3pm.,interview_schedule
+add this to monday's calendar schedule at 5pm.,interview_schedule
+list of interviews scheduled for tomorrow,schedule_list
+list of interviews scheduled for monday,schedule_list
+list of interviews scheduled for tuesday,schedule_list
+list of interviews scheduled for wednesday,schedule_list
