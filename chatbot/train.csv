@@ -113,6 +113,23 @@ hi i am malcolm,greetings
 hello i am ashley,greetings
 hello i am ash from the coding team,greetings
 "yo, i am victor from the legal department",greetings
+i need some guidance,greetings
+can you provide some quick help?,greetings
+i need some clarification,greetings
+can you provide some guidance,greetings
+need some guidance,greetings
+need guidance,greetings
+help needed,greetings
+help,greetings
+guidance please,greetings
+help please,greetings
+please help me with something,greetings
+can you please help with something?,greetings
+can you please help?,greetings
+need help,greetings
+a bit of help needed,greetings
+want some help,greetings
+need a bit of help,greetings
 i would like to hire a candidate.,hiring_request
 i would like to hire,hiring_request
 i want to hire a candidate,hiring_request
@@ -232,6 +249,9 @@ want candidates.,hiring_request
 candidates required.,hiring_request
 looking for good quality candidates.,hiring_request
 candidates wanted soon,hiring_request
+want some help with hiring,hiring_request
+some help needed with hiring candidates,hiring_request
+a bit of help needed with recruitment,hiring_request
 bye,goodbye
 see you later,goodbye
 goodbye,goodbye
@@ -398,6 +418,22 @@ set up a call today at 2pm.,interview_schedule
 set a meeting reminder tomorrow at 2pm.,interview_schedule
 book an appointment today at 3pm.,interview_schedule
 virtual meeting on friday at 12pm.,interview_schedule
+can you schedule an interview with the candidate tomorrow?,interview_schedule
+can you schedule an interview with him tomorrow?,interview_schedule
+can you schedule the interview for tomorrow?,interview_schedule
+is it possible to schedule an interview with the candidate tomorrow?,interview_schedule
+is it possible to keep the interview with him tomorrow?,interview_schedule
+possible to do the interview for tomorrow?,interview_schedule
+would it be possible to schedule an interview with the candidate tomorrow?,interview_schedule
+would it be possible to do an interview with him tomorrow?,interview_schedule
+would it be possible to do the interview tomorrow?,interview_schedule
+can the candidate come for the interview tomorrow at 3 pm?,interview_schedule
+can the candidate be called in for the interview tomorrow evening?,interview_schedule
+interview tomorrow at 11 am?,interview_schedule
+can we have the interview at 11 am next friday?,interview_schedule
+will it be possible to have the interview scheduled day after tomorrow at 3 pm,interview_schedule
+can we please have the interview tomorrow sometime?,interview_schedule
+how about having the interview at 10 am this thursday?,interview_schedule
 list of interviews,schedule_list
 list of interviews scheduled,schedule_list
 list of interviews scheduled for today,schedule_list
