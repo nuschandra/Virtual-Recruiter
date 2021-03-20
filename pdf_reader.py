@@ -8,6 +8,7 @@ from sklearn.metrics import precision_recall_fscore_support
 from spacy.gold import GoldParse
 from spacy.scorer import Scorer
 from sklearn.metrics import accuracy_score
+
 def create_data(data_path):
     training_data = []
     with open(data_path) as data:
@@ -45,14 +46,16 @@ def train_blank_spacy_model(training_data):
 
     
     optimizer = nlp.begin_training()
-    for iteration in range(20):
+    for iteration in range(100):
         random.shuffle(training_data)
         losses={}
         for resume_text, annotation in training_data:
             nlp.update([resume_text], [annotation], drop = 0.2, sgd=optimizer, losses=losses)
         print("Losses = ", losses)
     
-    examples = create_data("TestData.json")
+    nlp.to_disk('resume_model')
+
+    examples = create_data("ResumeTestingData.json")
     tp=0
     tr=0
     tf=0
@@ -101,8 +104,12 @@ def train_blank_spacy_model(training_data):
         print("Precision : "+str(d[i][1]/d[i][5]))
         print("Recall : "+str(d[i][2]/d[i][5]))
         print("F-score : "+str(d[i][3]/d[i][5]))
+    
+
 
 #trained_ner_model = train_blank_spacy_model(training_data)
 #trained_ner_model.to_disk("resume_model")
-training_data = create_data("TrainingData.json")
-train_blank_spacy_model(training_data)
+if __name__ == "__main__":
+   # stuff only to run when not called via 'import' here
+   training_data = create_data("ResumeTrainingData.json")
+   train_blank_spacy_model(training_data)

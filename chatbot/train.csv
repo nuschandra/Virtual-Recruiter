@@ -73,15 +73,6 @@ are you free now?,greetings
 you there?,greetings
 there?,greetings
 der?,greetings
-who are you?,greetings
-may i know your name?,greetings
-may i know who you are,greetings
-what is your name?,greetings
-can you give me an introduction about yourself,greetings
-introduce yourself,greetings
-your name?,greetings
-hi. tell me more about yourself,greetings
-tell me about yourself,greetings
 hey got a minute?,greetings
 hey i have a question,greetings
 are you online now?,greetings
@@ -130,6 +121,13 @@ need help,greetings
 a bit of help needed,greetings
 want some help,greetings
 need a bit of help,greetings
+guidance needed,greetings
+could you pls help me?,greetings
+help pls,greetings
+guidance pls,greetings
+i need some help pls,greetings
+would you be able to help me pls?,greetings
+can you pls help me with something?,greetings
 i would like to hire a candidate.,hiring_request
 i would like to hire,hiring_request
 i want to hire a candidate,hiring_request
@@ -252,6 +250,12 @@ candidates wanted soon,hiring_request
 want some help with hiring,hiring_request
 some help needed with hiring candidates,hiring_request
 a bit of help needed with recruitment,hiring_request
+could you pls help with recruitment?,hiring_request
+pls help me with the hiring process,hiring_request
+can you help me with the hiring pls?,hiring_request
+can you guide me with the hiring process pls?,hiring_request
+pls let me know about the recruitment process,hiring_request
+pls help me with the hiring of candidates,hiring_request
 bye,goodbye
 see you later,goodbye
 goodbye,goodbye
@@ -500,3 +504,146 @@ scheduled interviews on friday,schedule_list
 scheduled interviews this week,schedule_list
 scheduled interviews this month,schedule_list
 scheduled interviews on 2/5/2021,schedule_list
+list of interviews from 2021-03-01 to 2021-03-05,schedule_list
+list of interviews scheduled from 2021-04-01 to 2021-05-05,schedule_list
+interview list from 2020-06-21 to 2020-09-05,schedule_list
+show me the scheduled interviews from 2020-01-01 to 2020-08-03,schedule_list
+show all the candidates scheduled for interview from 2021-02-05 to 2021-07-10,schedule_list
+interview schedule from 2021-01-15 to 2021-10-30,schedule_list
+scheduled interviews from 2020-011-06 to 2021-04-18,schedule_list
+list of interviews from 2021-03-01 - 2021-03-05,schedule_list
+list of interviews scheduled from 2021-04-01 - 2021-05-05,schedule_list
+interview list from 2020-06-21 - 2020-09-05,schedule_list
+show me the scheduled interviews from 2020-01-01 - 2020-08-03,schedule_list
+show all the candidates scheduled for interview from 2021-02-05 - 2021-07-10,schedule_list
+interview schedule from 2021-01-15 - 2021-10-30,schedule_list
+scheduled interviews from 2020-011-06 - 2021-04-18,schedule_list
+list of interviews between 2021-03-01 - 2021-03-05,schedule_list
+list of interviews scheduled between 2021-04-01 - 2021-05-05,schedule_list
+interview list between 2020-06-21 - 2020-09-05,schedule_list
+show me the scheduled interviews between 2020-01-01 - 2020-08-03,schedule_list
+show all the candidates scheduled for interview between 2021-02-05 - 2021-07-10,schedule_list
+interview schedule between 2021-01-15 - 2021-10-30,schedule_list
+scheduled interviews between 2020-011-06 - 2021-04-18,schedule_list
+list of interviews two months from now,schedule_list
+list of interviews scheduled two months from now,schedule_list
+interview list two months from now,schedule_list
+show me the scheduled interviews two months from now,schedule_list
+show all the candidates scheduled for interview two months from now,schedule_list
+interview schedule two months from now,schedule_list
+scheduled interviews two months from now,schedule_list
+list of interviews two weeks from now,schedule_list
+list of interviews scheduled two weeks from now,schedule_list
+interview list two weeks from now,schedule_list
+show me the scheduled interviews two weeks from now,schedule_list
+show all the candidates scheduled for interview two weeks from now,schedule_list
+interview schedule two weeks from now,schedule_list
+scheduled interviews two weeks from now,schedule_list
+list of interviews in january,schedule_list
+list of interviews scheduled in january,schedule_list
+interview list in january,schedule_list
+show me the scheduled interviews in january,schedule_list
+show all the candidates scheduled for interview in january,schedule_list
+interview schedule in january,schedule_list
+scheduled interviews in january,schedule_list
+list of interviews in february,schedule_list
+list of interviews scheduled in february,schedule_list
+interview list in february,schedule_list
+show me the scheduled interviews in february,schedule_list
+show all the candidates scheduled for interview in february,schedule_list
+interview schedule in february,schedule_list
+scheduled interviews in february,schedule_list
+list of interviews in march,schedule_list
+list of interviews scheduled in march,schedule_list
+interview list in march,schedule_list
+show me the scheduled interviews in march,schedule_list
+show all the candidates scheduled for interview in march,schedule_list
+interview schedule in march,schedule_list
+scheduled interviews in march,schedule_list
+list of interviews in april,schedule_list
+list of interviews scheduled in april,schedule_list
+interview list in april,schedule_list
+show me the scheduled interviews in april,schedule_list
+show all the candidates scheduled for interview in april,schedule_list
+interview schedule in april,schedule_list
+scheduled interviews in april,schedule_list
+list of interviews in may,schedule_list
+list of interviews scheduled in may,schedule_list
+interview list in may,schedule_list
+show me the scheduled interviews in may,schedule_list
+show all the candidates scheduled for interview in may,schedule_list
+interview schedule in may,schedule_list
+scheduled interviews in may,schedule_list
+list of interviews in june,schedule_list
+list of interviews scheduled in june,schedule_list
+interview list in june,schedule_list
+show me the scheduled interviews in june,schedule_list
+show all the candidates scheduled for interview in june,schedule_list
+interview schedule in june,schedule_list
+scheduled interviews in june,schedule_list
+list of interviews in july,schedule_list
+list of interviews scheduled in july,schedule_list
+interview list in july,schedule_list
+show me the scheduled interviews in july,schedule_list
+show all the candidates scheduled for interview in july,schedule_list
+interview schedule in july,schedule_list
+scheduled interviews in july,schedule_list
+list of interviews in august,schedule_list
+list of interviews scheduled in august,schedule_list
+interview list in august,schedule_list
+show me the scheduled interviews in august,schedule_list
+show all the candidates scheduled for interview in august,schedule_list
+interview schedule in august,schedule_list
+scheduled interviews in august,schedule_list
+list of interviews in september,schedule_list
+list of interviews scheduled in september,schedule_list
+interview list in september,schedule_list
+show me the scheduled interviews in september,schedule_list
+show all the candidates scheduled for interview in september,schedule_list
+interview schedule in september,schedule_list
+scheduled interviews in september,schedule_list
+list of interviews in october,schedule_list
+list of interviews scheduled in october,schedule_list
+interview list in october,schedule_list
+show me the scheduled interviews in october,schedule_list
+show all the candidates scheduled for interview in october,schedule_list
+interview schedule in october,schedule_list
+scheduled interviews in october,schedule_list
+list of interviews in november,schedule_list
+list of interviews scheduled in november,schedule_list
+interview list in november,schedule_list
+show me the scheduled interviews in november,schedule_list
+show all the candidates scheduled for interview in november,schedule_list
+interview schedule in november,schedule_list
+scheduled interviews in november,schedule_list
+list of interviews in december,schedule_list
+list of interviews scheduled in december,schedule_list
+interview list in december,schedule_list
+show me the scheduled interviews in december,schedule_list
+show all the candidates scheduled for interview in december,schedule_list
+interview schedule in december,schedule_list
+scheduled interviews in december,schedule_list
+list of interviews a week from today,schedule_list
+list of interviews scheduled a week from today,schedule_list
+interview list a week from today,schedule_list
+show me the scheduled interviews a week from today,schedule_list
+show all the candidates scheduled for interview a week from today,schedule_list
+interview schedule a week from today,schedule_list
+scheduled interviews a week from today,schedule_list
+who are you?,bot_skill
+may i know your name?,bot_skill
+may i know who you are,bot_skill
+what is your name?,bot_skill
+can you give me an introduction about yourself,bot_skill
+introduce yourself,bot_skill
+your name?,bot_skill
+hi. tell me more about yourself,bot_skill
+tell me about yourself,bot_skill
+what are you?,bot_skill
+what can you do?,bot_skill
+are you human,bot_skill
+are you a robot,bot_skill
+are you ai,bot_skill
+what are my options?,bot_skill
+show me the options,bot_skill
+what can i do?,bot_skill

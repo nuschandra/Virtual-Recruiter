@@ -2,7 +2,7 @@
     "intents": [{
         "tag": "greetings",
         "patterns": ["Hi I need some clarifications", "Hey good morning to you", "Hi hope you're having a good morning", "Hello wish you a good morning", "Hey hey", "Hey you online?"],
-        "responses": ["Hi there, I am the Virtual-Recruiter. How can I help?"]
+        "responses": ["Hi there. How can I help?"]
     },{
         "tag":"hiring_request",
         "patterns":["What is the procedure for hiring a candidate?", "Candidate hiring", "Need to hire", "How can I hire a candidate?", "How to hire a candidate?", "How to hire?"],
@@ -17,7 +17,11 @@
         "responses":["Ok I have scheduled the interview at the given timing."]
     },{
         "tag":"schedule_list",
-        "patterns": ["list of interviews scheduled for tomorrow", "list of interviews scheduled for monday", "list of interviews scheduled for tuesday", "list of interviews scheduled for wednesday"],
+        "patterns": ["list of interviews scheduled for tomorrow", "list of interviews scheduled for monday", "list of interviews scheduled for tuesday", "list of interviews scheduled for wednesday", "interview schedule in March", "what are the scheduled interviews on 2021-06-25", "Get me the interview list from 2021-02-01 - 2021-03-30"],
         "responses": ["Sure, let me fetch your interview schedule."]
+    },{
+        "tag": "bot_skill",
+        "patterns": ["What are you?", "what are the available options?"],
+        "responses": ["I am Virtual-Recruiter chatbot. I can help you with hiring requests, scheduling interviews and fetching the list of interviews already scheduled. Following are some examples to start you off : I want to hire a candidate, Schedule the interview on Monday, list of interviews scheduled for this week or interview list on 2021-02-15 etc"]
     }]
 }                                                                                                                                              

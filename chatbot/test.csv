@@ -24,3 +24,8 @@ list of interviews scheduled for tomorrow,schedule_list
 list of interviews scheduled for monday,schedule_list
 list of interviews scheduled for tuesday,schedule_list
 list of interviews scheduled for wednesday,schedule_list
+interview schedule in march,schedule_list
+what are the scheduled interviews on 2021-06-25,schedule_list
+get me the interview list from 2021-02-01 - 2021-03-30,schedule_list
+what are you?,bot_skill
+what are the available options?,bot_skill

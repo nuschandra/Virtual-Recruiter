@@ -23,17 +23,11 @@
   },
   "labels":{
     "ner":[
-      "College Name",
-      "Companies worked at",
       "Degree",
-      "Designation",
-      "Email Address",
-      "Graduation Year",
-      "Location",
+      "Email",
+      "Experience",
       "Name",
-      "Skills",
-      "UNKNOWN",
-      "Years of Experience"
+      "Skills"
     ]
   }
 }
