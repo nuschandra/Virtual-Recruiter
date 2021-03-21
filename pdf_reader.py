@@ -46,7 +46,8 @@ def train_blank_spacy_model(training_data):
 
     
     optimizer = nlp.begin_training()
-    for iteration in range(100):
+    for iteration in range(150):
+        print(iteration)
         random.shuffle(training_data)
         losses={}
         for resume_text, annotation in training_data:
