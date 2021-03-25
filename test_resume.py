@@ -1,4 +1,3 @@
-from pdf_reader import create_data
 import spacy
 import warnings
 from pymongo import MongoClient
@@ -13,7 +12,7 @@ from pdfminer.pdfpage import PDFPage
 from pdfminer.pdfparser import PDFParser
 import os
 
-nlp=spacy.load('resume_model')
+nlp=spacy.load('./output/model-best')
 
 def convert_pdf_to_txt(path):
     resource_manager = PDFResourceManager()
