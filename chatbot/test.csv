@@ -15,11 +15,6 @@ see you soon!,goodbye
 catch you later,goodbye
 "alright, catch you later",goodbye
 ok bye,goodbye
-please add this to friday's interview list.,interview_schedule
-put this to thursday's schedule after 7pm.,interview_schedule
-setup an appointment for tuesday from 11am to 1pm for the interview.,interview_schedule
-set up interview for candidate on tuesday from 2pm to 3pm.,interview_schedule
-add this to monday's calendar schedule at 5pm.,interview_schedule
 list of interviews scheduled for tomorrow,schedule_list
 list of interviews scheduled for monday,schedule_list
 list of interviews scheduled for tuesday,schedule_list
@@ -29,3 +24,5 @@ what are the scheduled interviews on 2021-06-25,schedule_list
 get me the interview list from 2021-02-01 - 2021-03-30,schedule_list
 what are you?,bot_skill
 what are the available options?,bot_skill
+i want to select this candidate,update_performance
+i think i would reject this candidate,update_performance

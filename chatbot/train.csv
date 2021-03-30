@@ -332,112 +332,6 @@ alright fine talk to you another time,goodbye
 alright fine take care,goodbye
 fine good night,goodbye
 alright fine good night,goodbye
-please schedule the interview on monday,interview_schedule
-schedule meeting today,interview_schedule
-friday appointment to be booked at 11am.,interview_schedule
-i can conduct the interview on tuesday for a few candidates from 4pm to 6pm.,interview_schedule
-confirm wednesday 1pm for next round of interview.,interview_schedule
-conduct interview at 4pm on tuesday.,interview_schedule
-create an event for tomorrow at 5pm.,interview_schedule
-create an event at 5pm for tomorrow.,interview_schedule
-fix an appointment from 6pm to 7pm on monday,interview_schedule
-block my calendar on friday from 7pm to 8pm,interview_schedule
-schedule an interview next thursday at 2pm,interview_schedule
-schedule a meeting for next monday from 5pm,interview_schedule
-book a meeting for wednesday at 2pm,interview_schedule
-setup an interview call at 5pm on tuesday.,interview_schedule
-send an virtual interview invite for next friday at 3pm.,interview_schedule
-send a meeting invite for interview on thursday at 10 am.,interview_schedule
-meeting on friday at 11am,interview_schedule
-virtual interview on tuesday at 3pm.,interview_schedule
-add this to today's interview schedule.,interview_schedule
-add this to wednesday's schedule.,interview_schedule
-tuesday interview for candidate two.,interview_schedule
-conduct interview on tuesday,interview_schedule
-make an appointment for next week,interview_schedule
-create an event for tomorrow,interview_schedule
-fix an appointment on monday,interview_schedule
-block my calendar on friday,interview_schedule
-schedule an interview next thursday,interview_schedule
-schedule a meeting for next week,interview_schedule
-book a meeting for wednesday,interview_schedule
-setup an interview call on tuesday,interview_schedule
-send an interview invite for next friday,interview_schedule
-send a meeting invite for thursday.,interview_schedule
-meeting on friday,interview_schedule
-interview on tuesday.,interview_schedule
-set up a call today,interview_schedule
-set a meeting reminder tomorrow,interview_schedule
-book an appointment today,interview_schedule
-zoom meeting on friday,interview_schedule
-friday appointment to be booked,interview_schedule
-confirm interview schedule for next saturday,interview_schedule
-send interview invitation for coming monday,interview_schedule
-second round screening on coming tuesday,interview_schedule
-schedule a phone call this friday,interview_schedule
-schedule a face to face meeting on friday,interview_schedule
-confirm interview time for candidate on wednesday,interview_schedule
-monday will be the face-to-face interview for candidate one,interview_schedule
-let us confirm interview time for candidate on thursday,interview_schedule
-please confirm for this wednesday,interview_schedule
-please send out a meeting invite for the condidate on wednesday for an interview.,interview_schedule
-schedule a meeting invite for the condidate on wednesday for an interview.,interview_schedule
-wednesdaywill be the appointment for the first candidate ,interview_schedule
-"following wednesday, an interview will be scheduled for next round of screening.",interview_schedule
-"day-after tomorrow, we will conduct and interview for first candidate.",interview_schedule
-schedule interview slot for candidate for friday.,interview_schedule
-need to schedule a meeting on wednesday.,interview_schedule
-we need to schedule a meeting for on thursday for that candidate.,interview_schedule
-i'm free on monday for the interview.,interview_schedule
-i can conduct the interview on tuesday for a few candidates.,interview_schedule
-confirm wednesday for next round of interview.,interview_schedule
-please confirm interview on thursday.,interview_schedule
-add it to my thursday's schedule.,interview_schedule
-i'm available on wednesday for the interview.,interview_schedule
-i'm could take the interview on wednesday.,interview_schedule
-interview schedule on wednesday.,interview_schedule
-create interview slot on wednesday for candidate.,interview_schedule
-thursday slot for interview.,interview_schedule
-book an appointment on wednesday for the interview.,interview_schedule
-confirm wednesday for next round.,interview_schedule
-interview on wednesday as part of next round screening.,interview_schedule
-block monday for interviews.,interview_schedule
-add this to my tuesday's schedule.,interview_schedule
-confirm tomorrow's interview time.,interview_schedule
-please add this to friday's schedule.,interview_schedule
-put this to thursday's schedule.,interview_schedule
-setup an appointment for tuesday for the interview.,interview_schedule
-set up interview for candidate on tuesday.,interview_schedule
-add this to monday's calendar schedule.,interview_schedule
-put this to friday's schedule.,interview_schedule
-put it on my tuesday's schedule.,interview_schedule
-confirm interview and add it to the wednesday's schedule.,interview_schedule
-please schedule interview for tomorrow at 5pm.,interview_schedule
-book a meeting appointment for today @ 11 am.,interview_schedule
-schedule a meeting day-after at 3pm.,interview_schedule
-interview from 6pm to 7pm on friday.,interview_schedule
-meeting on friday at 12am.,interview_schedule
-interview on tuesday.,interview_schedule
-set up a call today at 2pm.,interview_schedule
-set a meeting reminder tomorrow at 2pm.,interview_schedule
-book an appointment today at 3pm.,interview_schedule
-virtual meeting on friday at 12pm.,interview_schedule
-can you schedule an interview with the candidate tomorrow?,interview_schedule
-can you schedule an interview with him tomorrow?,interview_schedule
-can you schedule the interview for tomorrow?,interview_schedule
-is it possible to schedule an interview with the candidate tomorrow?,interview_schedule
-is it possible to keep the interview with him tomorrow?,interview_schedule
-possible to do the interview for tomorrow?,interview_schedule
-would it be possible to schedule an interview with the candidate tomorrow?,interview_schedule
-would it be possible to do an interview with him tomorrow?,interview_schedule
-would it be possible to do the interview tomorrow?,interview_schedule
-can the candidate come for the interview tomorrow at 3 pm?,interview_schedule
-can the candidate be called in for the interview tomorrow evening?,interview_schedule
-interview tomorrow at 11 am?,interview_schedule
-can we have the interview at 11 am next friday?,interview_schedule
-will it be possible to have the interview scheduled day after tomorrow at 3 pm,interview_schedule
-can we please have the interview tomorrow sometime?,interview_schedule
-how about having the interview at 10 am this thursday?,interview_schedule
 list of interviews,schedule_list
 list of interviews scheduled,schedule_list
 list of interviews scheduled for today,schedule_list
@@ -647,3 +541,54 @@ are you ai,bot_skill
 what are my options?,bot_skill
 show me the options,bot_skill
 what can i do?,bot_skill
+update candidate performance,update_performance
+update interview performance,update_performance
+interview performance update,update_performance
+performance update,update_performance
+candidate update,update_performance
+interview review,update_performance
+i would like to update the performance of candidate,update_performance
+i want to update candidate performance,update_performance
+i want to give interview feedback,update_performance
+how do i update candidate performance?,update_performance
+how do i give interview feedback,update_performance
+how do i provide feedback for the candidate,update_performance
+how can i give interview feedback,update_performance
+what is the procedure to finalize a candidate,update_performance
+how do i update the performance of the candidate,update_performance
+interview completed,update_performance
+i have completed the interview,update_performance
+i have decided on the candidate,update_performance
+i have made the final decision on the candidate,update_performance
+i would like to update my decision on the candidate,update_performance
+i would like to update the interview decision,update_performance
+i want to provide feedback on the completed interview,update_performance
+can you help update the candidate performance,update_performance
+can you let me know the process to update candidate performance,update_performance
+what are the steps to update candidate performance,update_performance
+what are the next steps to give candidate feedback,update_performance
+please give me the steps to provide interview feedback,update_performance
+please let me know on how i can finalize the candidate,update_performance
+please let me know what needs to be done to finalize a candidate,update_performance
+i want to know how i can update the performance of the candidate,update_performance
+i would like to give feedback on the interview,update_performance
+i need to give interview feedback,update_performance
+is there a way by which i can update interview performance,update_performance
+what needs to be done to update interview feedback,update_performance
+how should i select a candidate,update_performance
+i want to select the candidate. can you help me with it?,update_performance
+i want to select the candidate,update_performance
+can you help me with the candidate selection process?,update_performance
+i want to reject the candidate. please guide me.,update_performance
+please guide me with the candidate selection process,update_performance
+please let me know how i can reject a candidate,update_performance
+can you tell me what are the steps to reject the candidate?,update_performance
+can you tell me what are the steps to select the candidate,update_performance
+select candidate,update_performance
+reject candidate,update_performance
+candidate selection,update_performance
+candidate rejection,update_performance
+i want to select this candidate,update_performance
+i think i would like to proceed with this candidate,update_performance
+i don't want to proceed with the candidate,update_performance
+i think i would reject this candidate,update_performance

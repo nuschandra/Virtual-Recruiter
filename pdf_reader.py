@@ -32,7 +32,7 @@ def create_data(data_path):
     return training_data
 
 def train_blank_spacy_model(training_data):
-    nlp = spacy.blank("en")
+    '''nlp = spacy.blank("en")
     if "ner" not in nlp.pipe_names:
         ner =  nlp.create_pipe("ner")
         nlp.add_pipe(ner, last = True)
@@ -44,17 +44,22 @@ def train_blank_spacy_model(training_data):
             ner.add_label(ent[2])
     warnings.filterwarnings("once", category=UserWarning, module='spacy')
 
-    
+    model_number=0
     optimizer = nlp.begin_training()
-    for iteration in range(150):
+    for iteration in range(200):
         print(iteration)
         random.shuffle(training_data)
         losses={}
         for resume_text, annotation in training_data:
             nlp.update([resume_text], [annotation], drop = 0.2, sgd=optimizer, losses=losses)
         print("Losses = ", losses)
-    
-    nlp.to_disk('resume_model')
+        if(iteration%25==0):
+            nlp.to_disk('resume_model'+str(model_number))
+            model_number+=1
+
+    nlp.to_disk('resume_model')'''
+
+    nlp = spacy.load('resume_model4')
 
     examples = create_data("ResumeTestingData.json")
     tp=0

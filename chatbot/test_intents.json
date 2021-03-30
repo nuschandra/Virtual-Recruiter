@@ -12,10 +12,6 @@
         "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye"],
         "responses": ["See you later!", "Have a nice day!", "Bye! Come back again soon."]
     },{
-        "tag":"interview_schedule",
-        "patterns": ["Please add this to friday's interview list.", "Put this to thursday's schedule after 7pm.", "Setup an appointment for tuesday from 11am to 1pm for the interview.", "Set up interview for candidate on tuesday from 2pm to 3pm.", "Add this to monday's calendar schedule at 5pm."],
-        "responses":["Ok I have scheduled the interview at the given timing."]
-    },{
         "tag":"schedule_list",
         "patterns": ["list of interviews scheduled for tomorrow", "list of interviews scheduled for monday", "list of interviews scheduled for tuesday", "list of interviews scheduled for wednesday", "interview schedule in March", "what are the scheduled interviews on 2021-06-25", "Get me the interview list from 2021-02-01 - 2021-03-30"],
         "responses": ["Sure, let me fetch your interview schedule."]
@@ -23,5 +19,9 @@
         "tag": "bot_skill",
         "patterns": ["What are you?", "what are the available options?"],
         "responses": ["I am Virtual-Recruiter chatbot. I can help you with hiring requests, scheduling interviews and fetching the list of interviews already scheduled. Following are some examples to start you off : I want to hire a candidate, Schedule the interview on Monday, list of interviews scheduled for this week or interview list on 2021-02-15 etc"]
+    }, {
+        "tag":"update_performance",
+        "patterns":["I want to select this candidate","I think I would reject this candidate"],
+        "responses":["Kindly update your performance here."]
     }]
 }                                                                                                                                              
