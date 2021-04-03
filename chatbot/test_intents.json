@@ -1,27 +1,23 @@
 {
     "intents": [{
         "tag": "greetings",
-        "patterns": ["Hi I need some clarifications", "Hey good morning to you", "Hi hope you're having a good morning", "Hello wish you a good morning", "Hey hey", "Hey you online?"],
+        "patterns": ["Hi I need some clarifications", "Hey good morning to you", "Hi hope you're having a good morning", "Hello wish you a good morning", "Hey hey", "Hey you online?","Long time no see", "Hey how have you been doing"],
         "responses": ["Hi there. How can I help?"]
     },{
         "tag":"hiring_request",
-        "patterns":["What is the procedure for hiring a candidate?", "Candidate hiring", "Need to hire", "How can I hire a candidate?", "How to hire a candidate?", "How to hire?"],
+        "patterns":["What is the procedure for hiring a candidate?", "Candidate hiring", "Need to hire", "How can I hire a candidate?", "How to hire a candidate?", "How to hire?", "what should i do to hire", "i desperately need to hire candidates", "can i create some job openings", "how do i upload job descriptions","can we start on the hiring process","how to recruit a candidate","how to recruit"],
         "responses":["Sure, could you kindly upload the job description document by clicking on the upload file option in the chat?"]
     },{
         "tag": "goodbye",
-        "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye"],
+        "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye","Nice talking to you", "you were very helpful","it was great to talk to you", "really nice of you to help me."],
         "responses": ["See you later!", "Have a nice day!", "Bye! Come back again soon."]
     },{
         "tag":"schedule_list",
-        "patterns": ["list of interviews scheduled for tomorrow", "list of interviews scheduled for monday", "list of interviews scheduled for tuesday", "list of interviews scheduled for wednesday", "interview schedule in March", "what are the scheduled interviews on 2021-06-25", "Get me the interview list from 2021-02-01 - 2021-03-30"],
+        "patterns": ["interviews scheduled for tomorrow", "interviews on monday", "scheduled interviews for tuesday", "what is my schedule for wednesday", "schedule in March", "what are the scheduled interviews on 2021-06-25", "interview list from 2021-02-01 - 2021-03-30"],
         "responses": ["Sure, let me fetch your interview schedule."]
     },{
-        "tag": "bot_skill",
-        "patterns": ["What are you?", "what are the available options?"],
-        "responses": ["I am Virtual-Recruiter chatbot. I can help you with hiring requests, scheduling interviews and fetching the list of interviews already scheduled. Following are some examples to start you off : I want to hire a candidate, Schedule the interview on Monday, list of interviews scheduled for this week or interview list on 2021-02-15 etc"]
-    }, {
         "tag":"update_performance",
-        "patterns":["I want to select this candidate","I think I would reject this candidate"],
+        "patterns":["selection of candidate","i might want to proceed with this candidate","i am interested in this candidate","the candidate was very impressive"],
         "responses":["Kindly update your performance here."]
     }]
 }                                                                                                                                              

@@ -20,8 +20,6 @@ hey hope you're doing good.,greetings
 hi. glad to talk to you,greetings
 top of the morning to you,greetings
 hi long time no see,greetings
-long time no see,greetings
-hey how have you been doing,greetings
 how ya doin,greetings
 it's good talking to you,greetings
 how're you,greetings
@@ -134,7 +132,6 @@ i want to hire a candidate,hiring_request
 i want to hire,hiring_request
 hiring needed,hiring_request
 can you help me with the hiring process?,hiring_request
-how can i hire a candidate?,hiring_request
 i am looking for a candidate.,hiring_request
 i am looking for a software engineer.,hiring_request
 i want to hire a manager.,hiring_request
@@ -317,7 +314,6 @@ see you next time,goodbye
 ok ttyl,goodbye
 ttyl,goodbye
 alright catch you another time,goodbye
-alright catch you later,goodbye
 alright ttyl,goodbye
 alright later then,goodbye
 ok later then,goodbye
@@ -524,23 +520,6 @@ show me the scheduled interviews a week from today,schedule_list
 show all the candidates scheduled for interview a week from today,schedule_list
 interview schedule a week from today,schedule_list
 scheduled interviews a week from today,schedule_list
-who are you?,bot_skill
-may i know your name?,bot_skill
-may i know who you are,bot_skill
-what is your name?,bot_skill
-can you give me an introduction about yourself,bot_skill
-introduce yourself,bot_skill
-your name?,bot_skill
-hi. tell me more about yourself,bot_skill
-tell me about yourself,bot_skill
-what are you?,bot_skill
-what can you do?,bot_skill
-are you human,bot_skill
-are you a robot,bot_skill
-are you ai,bot_skill
-what are my options?,bot_skill
-show me the options,bot_skill
-what can i do?,bot_skill
 update candidate performance,update_performance
 update interview performance,update_performance
 interview performance update,update_performance

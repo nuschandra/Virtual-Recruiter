@@ -5,24 +5,37 @@ hi hope you're having a good morning,greetings
 hello wish you a good morning,greetings
 hey hey,greetings
 hey you online?,greetings
+long time no see,greetings
+hey how have you been doing,greetings
 what is the procedure for hiring a candidate?,hiring_request
 candidate hiring,hiring_request
 need to hire,hiring_request
 how can i hire a candidate?,hiring_request
 how to hire a candidate?,hiring_request
 how to hire?,hiring_request
+what should i do to hire,hiring_request
+i desperately need to hire candidates,hiring_request
+can i create some job openings,hiring_request
+how do i upload job descriptions,hiring_request
+can we start on the hiring process,hiring_request
+how to recruit a candidate,hiring_request
+how to recruit,hiring_request
 see you soon!,goodbye
 catch you later,goodbye
 "alright, catch you later",goodbye
 ok bye,goodbye
-list of interviews scheduled for tomorrow,schedule_list
-list of interviews scheduled for monday,schedule_list
-list of interviews scheduled for tuesday,schedule_list
-list of interviews scheduled for wednesday,schedule_list
-interview schedule in march,schedule_list
+nice talking to you,goodbye
+you were very helpful,goodbye
+it was great to talk to you,goodbye
+really nice of you to help me.,goodbye
+interviews scheduled for tomorrow,schedule_list
+interviews on monday,schedule_list
+scheduled interviews for tuesday,schedule_list
+what is my schedule for wednesday,schedule_list
+schedule in march,schedule_list
 what are the scheduled interviews on 2021-06-25,schedule_list
-get me the interview list from 2021-02-01 - 2021-03-30,schedule_list
-what are you?,bot_skill
-what are the available options?,bot_skill
-i want to select this candidate,update_performance
-i think i would reject this candidate,update_performance
+interview list from 2021-02-01 - 2021-03-30,schedule_list
+selection of candidate,update_performance
+i might want to proceed with this candidate,update_performance
+i am interested in this candidate,update_performance
+the candidate was very impressive,update_performance
