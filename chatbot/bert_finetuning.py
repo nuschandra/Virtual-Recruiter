@@ -10,7 +10,7 @@ import datetime
 from bert import BertModelLayer
 from bert.loader import StockBertConfig, map_stock_config_to_params, load_stock_weights
 from bert.tokenization.bert_tokenization import FullTokenizer
-
+from bert import BertModelLayer
 import seaborn as sns
 from pylab import rcParams
 import matplotlib.pyplot as plt
@@ -123,9 +123,9 @@ model.compile(
   metrics=[keras.metrics.SparseCategoricalAccuracy(name="acc")]
 )
 
-log_dir = "log/intent_detection/" +\
- datetime.datetime.now().strftime("%Y%m%d-%H%M%s")
-tensorboard_callback = keras.callbacks.TensorBoard(log_dir=log_dir)
+#log_dir = "log/intent_detection/" +\
+# datetime.datetime.now().strftime("%Y%m%d-%H%M%s")
+#tensorboard_callback = keras.callbacks.TensorBoard(log_dir=log_dir)
 
 model.fit(
   x=data.train_x,
@@ -133,8 +133,7 @@ model.fit(
   validation_split=0.1,
   batch_size=16,
   shuffle=True,
-  epochs=20,
-  callbacks=[tensorboard_callback]
+  epochs=20
 )
 
 _, train_acc = model.evaluate(data.train_x, data.train_y)

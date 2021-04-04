@@ -36,7 +36,7 @@ def create_data(data_path):
     return training_data
 
 def train_blank_spacy_model(training_data,validation_data,test_data):
-    '''nlp = spacy.blank("en")
+    nlp = spacy.blank("en")
     if "ner" not in nlp.pipe_names:
         ner =  nlp.create_pipe("ner")
         nlp.add_pipe(ner, last = True)
@@ -87,7 +87,7 @@ def train_blank_spacy_model(training_data,validation_data,test_data):
 
     print(loss_value)
     print(val_loss_value)
-    nlp.to_disk('resume_model')'''
+    nlp.to_disk('resume_model')
 
     nlp = spacy.load('resume_model3')
 

@@ -9,7 +9,7 @@
         "responses":["Sure, could you kindly upload the job description document by clicking on the upload file option in the chat?"]
     },{
         "tag": "goodbye",
-        "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye","Nice talking to you", "you were very helpful","it was great to talk to you", "really nice of you to help me."],
+        "patterns": ["See you soon!", "Catch you later", "Alright, catch you later", "Ok bye","Nice talking to you","it was great to talk to you"],
         "responses": ["See you later!", "Have a nice day!", "Bye! Come back again soon."]
     },{
         "tag":"schedule_list",
